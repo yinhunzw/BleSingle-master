@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BleSingle.iml" filepath="$PROJECT_DIR$/BleSingle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BleSingle-master.iml" filepath="$PROJECT_DIR$/BleSingle-master.iml" group="BleSingle-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/BleSingle-master-app.iml" filepath="$PROJECT_DIR$/app/BleSingle-master-app.iml" group="BleSingle-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carble/carble.iml" filepath="$PROJECT_DIR$/carble/carble.iml" group="BleSingle-master/carble" />
+    </modules>
+  </component>
+</project>

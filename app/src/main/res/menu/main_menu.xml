@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_scan"
+        android:title="@string/scan"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_no_sense_connect"
+        android:title="@string/no_sense_connect" />
+</menu>
